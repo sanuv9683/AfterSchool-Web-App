@@ -1,5 +1,6 @@
-## After Schools Web App
-A little info about your project and/ or overview that explains **what** the project is about.
+## After-Schools Web App
+As a client project I developed this project for handaling the resources
+between studetns and lectures..  from this project it was esier maintain the resources and delivering them in a better way.
 
 ## Motivation
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
