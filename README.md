@@ -9,7 +9,7 @@ between studetns and lectures..  from this project it was esier maintain the res
 [![js-standard-style](https://img.shields.io/azure-devops/coverage/swellaby/opensource/25.svg)](https://google.com)
  
 ## Screenshots
-
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 ## Tech/framework used
 
